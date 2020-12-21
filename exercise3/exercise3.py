@@ -8,3 +8,5 @@ name="jhon","mrbeast","Tefu",
 name=["jhon","mrbeast","Tefu"]
 mouth1=dateofbirth[month]
 print("you born month is ",mouth1)
+name.append(name1)
+print(name,"has been added")
